@@ -1,5 +1,3 @@
-Harshal here I’m interested in Health informatics.
-Currently learning python,sql,data analytics/science
 
 
 <!---
